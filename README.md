@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" alt="Coding" width="auto" src="hhttps://img.freepik.com/premium-vector/banner-design-with-laptop-coding-page-cartoon-design-programmers-day-design_96777-1671.jpg?w=1380"> </p>
+<p align="center"> <img align="center" alt="Coding" width="auto" src="https://img.freepik.com/premium-vector/banner-design-with-laptop-coding-page-cartoon-design-programmers-day-design_96777-1671.jpg"> </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Ali</h1>
 <h3 align="center">A passionate game and web developer from Pakistan</h3>
