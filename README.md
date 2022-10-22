@@ -5,12 +5,6 @@
 <h3 align="center">A passionate game and web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhaking&label=Profile%20views&color=0e75b6&style=flat" alt="mhaking" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhaking" alt="mhaking" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/codermha" target="blank"><img src="https://img.shields.io/twitter/follow/codermha?logo=twitter&style=for-the-badge" alt="codermha" /></a> </p>
-
 - 🔭 I’m currently working in **Virtual Recruitment Days**
 
 - 👯 I’m looking to collaborate on **WebGL/WebGPU Games & MERN Stack**
@@ -18,6 +12,14 @@
 - 💬 Ask me about **PlayCanvas, Cocos, Phaser, Three.js, Babylon, HTML5, CSS, Firebase, Node, Express, React**
 
 - 📫 How to reach me **mha.m.hassan.ali@outlook.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhaking&label=Profile%20views&color=0e75b6&style=flat" alt="mhaking" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhaking" alt="mhaking" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/codermha" target="blank"><img src="https://img.shields.io/twitter/follow/codermha?logo=twitter&style=for-the-badge" alt="codermha" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
