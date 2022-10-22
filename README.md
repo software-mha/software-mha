@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center"> <img align="center" alt="Coding" width="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Ali</h1>
 <h3 align="center">A passionate game and web developer from Pakistan</h3>
