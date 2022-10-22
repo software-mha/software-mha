@@ -1,5 +1,5 @@
 
-[![MasterHead](https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg)]
+[![MasterHead]([https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg](https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))]
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
