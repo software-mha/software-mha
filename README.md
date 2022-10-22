@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" alt="Coding" width="auto" src="https://img.freepik.com/free-vector/tiny-programmers-big-laptop-writing-script-coders-app-developers-with-computers-flat-vector-illustration-programming-engineering-software-development-concept-banner-landing-web-page_74855-25360.jpg?w=1480&t=st=1666451533~exp=1666452133~hmac=19b87146307e0fa7bae5882700fa789cfd14a647a323ef4381ac4d9bc037dd9b"> </p>
+<p align="center"> <img align="center" alt="Coding" width="auto" src="https://img.freepik.com/free-photo/network-graphic-overlay-banner-laptop_53876-120748.jpg?w=1800&t=st=1666451624~exp=1666452224~hmac=e8a65d6af3a8e7bf88f6e7f7a2c0f1abae7eb03572bfd8b5209331ee06c3c097"> </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Ali</h1>
 <h3 align="center">A passionate game and web developer from Pakistan</h3>
