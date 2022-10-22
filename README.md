@@ -1,8 +1,8 @@
-<p align="center"> <img align="center" alt="Coding" width="auto" src="https://img.freepik.com/premium-vector/banner-design-with-laptop-coding-page-cartoon-design-programmers-day-design_96777-1671.jpg"> </p>
+<p align="center"> <img align="center" alt="Coding" width="auto" src="https://img.freepik.com/free-vector/tiny-programmers-big-laptop-writing-script-coders-app-developers-with-computers-flat-vector-illustration-programming-engineering-software-development-concept-banner-landing-web-page_74855-25360.jpg?w=1480&t=st=1666451533~exp=1666452133~hmac=19b87146307e0fa7bae5882700fa789cfd14a647a323ef4381ac4d9bc037dd9b"> </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Ali</h1>
 <h3 align="center">A passionate game and web developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=1380&t=st=1666451278~exp=1666451878~hmac=b98badcbac9f3334b148ebdb99458589ae9d4a069031d6198cefd092d4e80055">
 
 - 🔭 I’m currently working in **Virtual Recruitment Days**
 
