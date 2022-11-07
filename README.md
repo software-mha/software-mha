@@ -1,5 +1,6 @@
 <!--<p align="center"> <img align="center" alt="Coding" width="auto" src="https://img.freepik.com/free-photo/programming-script-text-coding-word_53876-64939.jpg?w=1800&t=st=1666451778~exp=1666452378~hmac=8d95e240e733bef54baab6a954474751fa517e72c3673c28e0a922247a7abda0"> </p>
 -->
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=MHAKing&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Ali</h1>
 <h3 align="center">A passionate game and web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/code-coding-programming-technology-technical-concept_53876-120436.jpg?w=1380&t=st=1666451758~exp=1666452358~hmac=14f702c9426c80b41b73e4dce496d3b35deb46be96316beddf983cd98f7fd7d2">
@@ -26,7 +27,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhaking&label=Profile%20views&color=0e75b6&style=flat" alt="mhaking" /> </p>
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhaking&show_icons=true&locale=en&layout=compact" alt="mhaking" /></p>
 
 <h3 align="center">Languages and Tools:</h3>
