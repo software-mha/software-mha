@@ -1,33 +1,85 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hassan Ali</h1>
-<h3 align="center">Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R3F. Adept at creating high-performance websites and immersive experiences. Specializes in developing responsive UIs and seamlessly integrating advanced 3D elements.</h3>
+# Muhammad Hassan Ali - Senior Software Developer
 
-- 👯 I’m looking to collaborate on **React, Next, R3F, Three Projects**
+## About Me
 
-- 👨‍💻 All of my projects are available at [https://software-mha.github.io/](https://software-mha.github.io/)
+Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R3F. Adept at creating high-performance websites and immersive experiences. Specializes in developing responsive UIs and seamlessly integrating advanced 3D elements.
 
-- 💬 Ask me about **React, Next, R3F, Node, Three, PlayCanvas, Cocos2d, Phaser, Colyseus**
+## Skills
 
-- 📫 How to reach me **software.mha.ali@gmail.com**
-
-- 📄 Know about my experiences [https://software-mha-blog.github.io/](https://software-mha-blog.github.io/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/muhammad-hassan-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/muhammad-hassan-ali" height="30" width="40" /></a>
-<a href="https://dev.to/software-mha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="software-mha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hassan-ali-24216a18b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-hassan-ali-24216a18b/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/software_mha_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/software_mha_ali" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js"/>
+  <img src="https://img.shields.io/badge/-R3F-00D084?style=flat-square&logo=react&logoColor=white" alt="R3F"/>
+  <img src="https://img.shields.io/badge/-PlayCanvas-00B2A9?style=flat-square&logo=playcanvas&logoColor=white" alt="PlayCanvas"/>
+  <img src="https://img.shields.io/badge/-Phaser-8A2C2C?style=flat-square&logo=phaser&logoColor=white" alt="Phaser"/>
+  <img src="https://img.shields.io/badge/-Cocos2d-0094FF?style=flat-square&logo=cocos&logoColor=white" alt="Cocos2d"/>
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/-WebGL-F24C3D?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/>
+  <img src="https://img.shields.io/badge/-Colyseus-FF4C00?style=flat-square&logo=colyseus&logoColor=white" alt="Colyseus"/>
+  <img src="https://img.shields.io/badge/-Photon%20Engine-4C8BF5?style=flat-square&logo=photon-engine&logoColor=white" alt="Photon Engine"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## Experience
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=software-mha&show_icons=true&locale=en&layout=compact" alt="software-mha" /></p>
+### Senior Software Developer at [Virtual Days · Full-time](https://www.virtualdays.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=software-mha&show_icons=true&locale=en" alt="software-mha" /></p>
+*Oct 2022 - Present · 1 yr 11 months*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=software-mha&" alt="software-mha" /></p>
+-Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R3F.
+-Developed dynamic websites using React and Next.js, enhancing user experiences with 3D elements.
+-Created immersive 3D experiences for users with PlayCanvas and Three.js.
+-Integrated 3D components into websites using PlayCanvas, Three.js, and R3F blending functionality with cutting-edge visuals.
+
+### Software Developer at [GenITeam Solutions · Full-time](https://www.geniteam.com) 
+
+*May 2021 - Oct 2022 · 1 yr 6 months*
+
+-Software Developer skilled in React, Next.js, PlayCanvas, Three.js, and R3F with a strong focus on delivering innovative web solutions.
+-Engineered high-performance websites using React and Next.js, integrating advanced 3D features for interactive user experiences.
+-Developed immersive 3D experiences utilizing PlayCanvas, Three.js, and Phaser, pushing the boundaries of web-based interactivity.
+-Integrated cutting-edge 3D components into websites, using PlayCanvas, Three.js, and R3F to create visually stunning and responsive applications.
+-Expertise in both frontend and backend development, ensuring robust, scalable, and user-centric solutions.
+
+### Intern at [Fauji Fertilizer Company Limited · Internship](https://www.geniteam.com)
+
+*Jul 2019 - Aug 2019 · 2 months*
+
+-Software Developer with deep expertise in React, creating dynamic and responsive websites that deliver seamless user experiences.
+-Built high-performance web applications with React, focusing on clean, maintainable code and scalable architecture.
+-Collaborated closely with design teams to transform complex UI/UX designs into fully functional, interactive applications.
+-Implemented state management with Redux, ensuring efficient data flow and a smooth user experience.
+
+## Projects
+
+### [Project Name](link-to-project)
+
+A brief description of the project, highlighting your role and the technologies used.
+
+- **Technologies Used:** React.js, Next.js, Three.js, Redux
+- **Features:** Key features or accomplishments
+- **Link:** [Demo](link-to-demo) | [Repository](link-to-repo)
+
+### [Project Name](link-to-project)
+
+A brief description of the project, highlighting your role and the technologies used.
+
+- **Technologies Used:** Node.js, PlayCanvas, Redux
+- **Features:** Key features or accomplishments
+- **Link:** [Demo](link-to-demo) | [Repository](link-to-repo)
+
+
+## Certifications
+
+- [2D Game Artist](https://www.udemy.com/certificate/UC-c668bccd-702c-4135-8f28-6e6ef5991cff/) - [Udemy]
+
+## Contact
+
+- **Email:** software.mha.ali@gmail.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/muhammad-hassan-ali-24216a18b/)
+- **Portfolio:** [Your Portfolio](link-to-portfolio)
+
