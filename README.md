@@ -80,6 +80,16 @@ A brief description of the project, highlighting your role and the technologies 
 ## Contact
 
 - **Email:** software.mha.ali@gmail.com
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/muhammad-hassan-ali-24216a18b/)
+- **LinkedIn:** [https://www.linkedin.com/in/muhammad-hassan-ali-24216a18b](https://www.linkedin.com/in/muhammad-hassan-ali-24216a18b)
 - **Portfolio:** [Your Portfolio](link-to-portfolio)
 
+
+## My GitHub Stats
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=software-mha&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=software-mha&show_icons=true&locale=en" alt="GitHub Stats" style="margin-left: auto;" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=software-mha&" alt="Streak Stats" />
+</p>
