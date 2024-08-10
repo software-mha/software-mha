@@ -35,7 +35,7 @@ Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R
 -Created immersive 3D experiences for users with PlayCanvas and Three.js.
 -Integrated 3D components into websites using PlayCanvas, Three.js, and R3F blending functionality with cutting-edge visuals.
 
-### Software Developer at [GenITeam Solutions · Full-time](https://www.geniteam.com) 
+### Software Developer at [GenITeam Solutions · Full-time](https://www.geniteam.com)
 
 *May 2021 - Oct 2022 · 1 yr 6 months*
 
@@ -56,22 +56,19 @@ Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R
 
 ## Projects
 
-### [Project Name](link-to-project)
+### [Virtual Days](https://event.virtualdays.com/)
 
-A brief description of the project, highlighting your role and the technologies used.
+I developed the React frontend for a 3D immersive web app, integrating interactive videos and optimizing performance. I ensured responsiveness across all devices to enhance user experience. Collaboration with design and backend teams refined and aligned the overall user interface.
 
-- **Technologies Used:** React.js, Next.js, Three.js, Redux
-- **Features:** Key features or accomplishments
-- **Link:** [Demo](link-to-demo) | [Repository](link-to-repo)
+- **Technologies Used:** React.js, Redux, PlayCanvas
+- **Link:** [Website](https://event.virtualdays.com/) | [Company Site](https://www.virtualdays.com/)
 
-### [Project Name](link-to-project)
+### [Empire](https://www.activ8games.com/)
 
-A brief description of the project, highlighting your role and the technologies used.
+I developed both the frontend and backend for a multiplayer game, using React for the frontend and Node.js for the backend. The game was built with Cocos, where I integrated game mechanics and ensured seamless interaction between the game, frontend, and server.
 
-- **Technologies Used:** Node.js, PlayCanvas, Redux
-- **Features:** Key features or accomplishments
-- **Link:** [Demo](link-to-demo) | [Repository](link-to-repo)
-
+- **Technologies Used:** Node.js, React, Redux, Cocos
+- **Link:** [Company Site](https://www.activ8games.com/)
 
 ## Certifications
 
@@ -79,6 +76,6 @@ A brief description of the project, highlighting your role and the technologies 
 
 ## Contact
 
-- **Email:** software.mha.ali@gmail.com
+- **Email:** <software.mha.ali@gmail.com>
 - **LinkedIn:** [https://www.linkedin.com/in/muhammad-hassan-ali-24216a18b](https://www.linkedin.com/in/muhammad-hassan-ali-24216a18b)
-- **Portfolio:** [Your Portfolio](link-to-portfolio)
+- **Portfolio:** [Portfolio](https://software-mha.github.io/)
