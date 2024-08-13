@@ -28,7 +28,7 @@ Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R
 
 ### Senior Software Developer at [Virtual Days · Full-time](https://www.virtualdays.com)
 
-*Oct 2021 - Present · 1 yr 11 months*
+*Oct 2021 - Present*
 
 -Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R3F.
 -Developed dynamic websites using React and Next.js, enhancing user experiences with 3D elements.
