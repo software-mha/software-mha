@@ -30,19 +30,19 @@ Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R
 
 *Oct 2021 - Present*
 
--Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R3F.
--Developed dynamic websites using React and Next.js, enhancing user experiences with 3D elements.
--Created immersive 3D experiences for users with PlayCanvas and Three.js.
--Integrated 3D components into websites using PlayCanvas, Three.js, and R3F blending functionality with cutting-edge visuals.
+-Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R3F.  
+-Developed dynamic websites using React and Next.js, enhancing user experiences with 3D elements.  
+-Created immersive 3D experiences for users with PlayCanvas and Three.js.  
+-Integrated 3D components into websites using PlayCanvas, Three.js, and R3F blending functionality with cutting-edge visuals.  
 
 ### Software Developer at [GenITeam Solutions · Full-time](https://www.geniteam.com)
 
 *May 2020 - Oct 2021 · 1 yr 6 months*
 
--Software Developer skilled in React, Next.js, PlayCanvas, Three.js, and R3F with a strong focus on delivering innovative web solutions.
--Engineered high-performance websites using React and Next.js, integrating advanced 3D features for interactive user experiences.
--Developed immersive 3D experiences utilizing PlayCanvas, Three.js, and Phaser, pushing the boundaries of web-based interactivity.
--Integrated cutting-edge 3D components into websites, using PlayCanvas, Three.js, and R3F to create visually stunning and responsive applications.
+-Software Developer skilled in React, Next.js, PlayCanvas, Three.js, and R3F with a strong focus on delivering innovative web solutions.  
+-Engineered high-performance websites using React and Next.js, integrating advanced 3D features for interactive user experiences.  
+-Developed immersive 3D experiences utilizing PlayCanvas, Three.js, and Phaser, pushing the boundaries of web-based interactivity.  
+-Integrated cutting-edge 3D components into websites, using PlayCanvas, Three.js, and R3F to create visually stunning and responsive applications.  
 -Expertise in both frontend and backend development, ensuring robust, scalable, and user-centric solutions.
 
 ### Intern at [Fauji Fertilizer Company Limited · Internship](https://www.geniteam.com)
