@@ -28,7 +28,7 @@ Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R
 
 ### Senior Software Developer at [Virtual Days · Full-time](https://www.virtualdays.com)
 
-*Oct 2021 - Present*
+*Oct 2022 - Present*
 
 -Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R3F.
 
@@ -41,7 +41,7 @@ Software Developer with expertise in React, Next.js, PlayCanvas, Three.js, and R
 
 ### Software Developer at [GenITeam Solutions · Full-time](https://www.geniteam.com)
 
-*May 2020 - Oct 2021 · 1 yr 6 months*
+*May 2021 - Oct 2022 · 1 yr 6 months*
 
 -Software Developer skilled in React, Next.js, PlayCanvas, Three.js, and R3F with a strong focus on delivering innovative web solutions.
 
